@@ -14,7 +14,9 @@ push files to Erez's Server
 git push -f
 
 
+To refresh my copy from what is on the Github server:
 
+git pull -f
 
 
 
